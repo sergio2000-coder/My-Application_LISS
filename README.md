@@ -1,0 +1,3 @@
+# My-Application_LISS
+Ejercicio de Aplicaciones Moviles 01_LISS (posiblemente del quinto cuatrimestre LISS)
+Ejercicio en hora de clases Zoom 2021...
